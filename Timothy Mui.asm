@@ -1,9 +1,10 @@
 ; Timothy Mui
-; TEJ4M1-15
-; Ms. Tajalli-Yazdi
+;
+; https://github.com/theblankness
+;
 ; Dec 2, 2013
 ;
-; This program takes a 10-digit binary number and outputs the number converted to decimal and converted to duotrigesimal. 
+; Description: This program takes a 10-digit binary number and outputs the number converted to decimal and converted to duotrigesimal. 
 
 	org 100h
 
